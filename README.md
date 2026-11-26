@@ -145,22 +145,6 @@ Webアプリ・macOS向け便利ツールの個人開発と、映像制作・ガ
         <b>AI連携Discord Bot＆日常効率化ツール群</b><br />
         Cloudflare WorkersとWorkers KV、Gemini APIなどを活用し、常時起動サーバー不要で軽快に動作するAIチャットBot・管理ダッシュボードや、SNSリンク補助などのミニWebツール群を開発・運用しています。
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/Runtime-Cloudflare_Workers-6D28D9?style=flat-square&logo=cloudflare&logoColor=white" alt="Workers" />
-        <img src="https://img.shields.io/badge/AI-Gemini_API-9333EA?style=flat-square" alt="AI" />
-      </p>
-      <sub><code>JavaScript</code> <code>Python</code> <code>Cloudflare Workers</code> <code>Workers KV</code> <code>Discord API</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌌 <a href="https://azarin.me">azarin.me</a> &amp; <a href="https://rurusoba.me">rurusoba.me</a></h3>
-      <p>
-        <b>個人ポートフォリオサイト ＆ ガジェット・技術ブログ</b><br />
-        制作物やSNSリンクを集約した拠点サイト「azarin.me」と、ガジェットの長期使用レビューや技術検証ログをまとめた「rurusoba.me」を独自ドメインで構築・運営しています。
-      </p>
-      <p>
-        <a href="https://azarin.me"><img src="https://img.shields.io/badge/Visit-azarin.me-5B21B6?style=flat-square" alt="azarin.me" /></a>
-        <a href="https://rurusoba.me"><img src="https://img.shields.io/badge/Visit-rurusoba.me-8B5CF6?style=flat-square" alt="rurusoba.me" /></a>
-      </p>
       <sub><code>Web Design</code> <code>Cloudflare</code> <code>SEO</code> <code>Content Writing</code></sub>
     </td>
   </tr>
