@@ -25,28 +25,17 @@
 
 ## 🔮 About Me
 
-こんにちは、**あざりん（Azarin）** です。  
+こんにちは、<b>あざりん（Azarin）</b>です。  
 Webアプリ・macOS向け便利ツールの個人開発と、映像制作・ガジェット発信を中心に活動しているクリエイターです。
 
-「日常や動画編集の現場で感じる『ちょっとした不便』を、自分の手で解消する」をテーマにモノづくりをしています。アイデア出しからUI設計、コード実装、サーバーレス環境での公開、紹介動画の撮影・編集まで一気通貫で手がけるスタイルが得意です。
+「日常や動画編集の現場で感じる『ちょっとした不便』を、自分の手で解消する」をテーマに、アイデア出しからUI設計、実装、公開、紹介動画の制作まで一気通貫で手がけています。
 
-```yaml
-name: "あざりん / Azarin"
-role:
-  - Indie Software & Web Developer
-  - Video Creator & Editor
-  - Gadget Reviewer
-focus_areas:
-  - "実用系Webアプリ・データベース構築"
-  - "macOSネイティブユーティリティ開発"
-  - "動画・音声編集の自動化ツール制作"
-  - "Apple製品・PC周辺機器の検証と発信"
-motto: "自分が毎日使いたくなるツールを、最短距離で形にする"
-websites:
-  portfolio: "https://azarin.me"
-  blog: "https://rurusoba.me"
-  featured_service: "https://apple.azarin.me"
-```
+> [!IMPORTANT]
+> **💜 Profile & Focus**
+> - **Role：** Indie Software & Web Developer / Video Creator / Gadget Reviewer
+> - **Focus：** 実用系Webアプリ・データベース構築 / macOSネイティブツール開発 / 動画編集の自動化 / Apple・ガジェット検証
+> - **Motto：** 自分が毎日使いたくなるツールを、最短距離で形にする
+> - **Links：** [azarin.me](https://azarin.me) / [rurusoba.me](https://rurusoba.me) / [Apple Price Atlas](https://apple.azarin.me)
 
 ---
 
